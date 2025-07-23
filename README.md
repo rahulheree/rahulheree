@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 📝 I regularly write articles on [How the it industry is evolving, How the industry is evolving]
+- 📝 Crafting innovative solutions through code.
 
 - 💬 Ask me about **Anything related code**
 
