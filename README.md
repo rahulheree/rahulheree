@@ -4,9 +4,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 Full-Stack Developer | Python | React | FastAPI
+
 Building scalable backend systems & sleek frontends
 
 💻 Tech Stack
+
 • Backend: Python, FastAPI, PostgreSQL, PostGIS, REST APIs
 
 • Frontend: React.js, Tailwind CSS
