@@ -3,13 +3,20 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Full-Stack Developer | Python | React | FastAPI
+Building scalable backend systems & sleek frontends
 
+💻 Tech Stack
+• Backend: Python, FastAPI, PostgreSQL, PostGIS, REST APIs
+• Frontend: React.js, Tailwind CSS
+• Tools: Git, GitHub, VS Code
 
-- 📝 Crafting innovative solutions through code.
+📝 Crafting innovative solutions through code.
+Open to collaboration!
+Got an idea or project in mind? Let’s build it together.
+⭐ If you like my work, consider dropping a star — it means a lot!
 
-- 💬 Ask me about **Anything related code**
-
-- 📫 How to reach me **http://rahuldass.bio.link/**
+📫 How to reach me **http://rahuldass.bio.link/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
