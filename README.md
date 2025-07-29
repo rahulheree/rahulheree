@@ -1,8 +1,9 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi, I'm Rahul</h1>
-<h3 align="center">Full-Stack Developer | Python | React | FastAPI</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 Full-Stack Developer | Python | React | FastAPI
 
 Building scalable backend systems & sleek frontends
