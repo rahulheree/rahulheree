@@ -3,6 +3,7 @@
 <h3 align="center">Full-Stack Developer | Python | React | FastAPI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Full-Stack Developer | Python | React | FastAPI
 
 Building scalable backend systems & sleek frontends
 
