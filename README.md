@@ -8,12 +8,17 @@ Building scalable backend systems & sleek frontends
 
 💻 Tech Stack
 • Backend: Python, FastAPI, PostgreSQL, PostGIS, REST APIs
+
 • Frontend: React.js, Tailwind CSS
+
 • Tools: Git, GitHub, VS Code
 
 📝 Crafting innovative solutions through code.
+
 Open to collaboration!
+
 Got an idea or project in mind? Let’s build it together.
+
 ⭐ If you like my work, consider dropping a star — it means a lot!
 
 📫 How to reach me **http://rahuldass.bio.link/**
