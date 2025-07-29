@@ -24,8 +24,6 @@ Got an idea or project in mind? Let’s build it together.
 
 ⭐ If you like my work, consider dropping a star — it means a lot!
 
-📫 How to reach me **http://rahuldass.bio.link/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-das-31b996220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imrahull/" height="30" width="40" /></a>
